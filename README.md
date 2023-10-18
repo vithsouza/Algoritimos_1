@@ -1,4 +1,5 @@
-# Faculdade---> C/C++
+# College(C/C++)
+
 Exercises I did during college
 
 ----PT-BR----
